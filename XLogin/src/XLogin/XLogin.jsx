@@ -19,7 +19,7 @@ const Form = () => {
   };
   return (
     <Container maxWidth="sm">
-      <div style={{ marginTop: "350px" }}>
+      <div style={{ marginTop: "40px" }}>
         <Typography variant="h4" gutterBottom>
           Login Page
         </Typography>
